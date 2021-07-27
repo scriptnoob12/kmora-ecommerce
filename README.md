@@ -12,7 +12,7 @@
 
 ## Descripción:
 
-Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la cual lleva un emprendimiento de joyería que comercializaba a través de sus redes sociales y se veía en necesidad de algo tener una herramienta que le permita tener más presencia en internet, que le facilite la gestión de pedidos y por sobre todo que le de un estatus profesional más alto y por tanto, mucha más seriedad. Viendo esta oportunidad, nuestro equipo que estaba en búsqueda de un proyecto de finalización para *Henry Bootcamp* se puso en contacto con esta emprendedora y luego de reuniones para pactar los requerimientos del cliente para que a su vez cumpla con los requerimientos mínimos del bootcamp, desarrollamos **Kmora e-comerce**.
+Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la cual lleva un emprendimiento de joyería que comercializaba a través de sus redes sociales y se veía en necesidad de algo tener una herramienta que le permita tener más presencia en internet, que le facilite la gestión de pedidos y por sobre todo que le de un estatus profesional más alto y por tanto, mucha más seriedad. Nuestro objetivo fue crear un **e-commerce** manteniendo el estilo y la identidad de la marca. 
 
 <br>
 <br>
@@ -35,3 +35,5 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 <br>
 <br>
 <br>
+## Video de visualización del proyecto
+[![Alt text]([kmoravideo](https://user-images.githubusercontent.com/58433889/127078716-c6d2a6b3-8203-4ce9-9263-d73fb98feb2e.png)](https://www.youtube.com/watch?v=QoSK1GlyrxU)
