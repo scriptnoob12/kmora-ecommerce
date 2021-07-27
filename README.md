@@ -37,7 +37,8 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 <br>
 
 ## Tecnologías utilizadas:
-Html - Css - Javascript - React - React-Redux - NodeJS - Express - Recharts - Sequelize - PostgreSQL - Cloudinary API - Firebase Auth API - Integración con PayU Api - Protección con JWT - Nodemailer
+<center>
+Html - Css - Javascript - React - React-Redux - NodeJS - Express - Recharts - Sequelize - PostgreSQL - Cloudinary API - Firebase Auth API - Integración con PayU Api - Protección con JWT - Nodemailer</center>
 ###### Video de visualización del proyecto
 
 <div align="center">
