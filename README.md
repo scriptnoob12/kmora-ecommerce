@@ -35,7 +35,10 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 <br>
 <br>
 <br>
-## Video de visualización del proyecto
+
+## Tecnologías utilizadas:
+Html - Css - Javascript - React - React-Redux - NodeJS - Express - Recharts - Sequelize - PostgreSQL - Cloudinary API - Firebase Auth API - Integración con PayU Api - Protección con JWT - Nodemailer
+###### Video de visualización del proyecto
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QoSK1GlyrxU"><img src="https://i.ibb.co/hftYfYk/kmoravideo.png" alt="Kmora video presentación"></a>
