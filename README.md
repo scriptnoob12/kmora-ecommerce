@@ -39,10 +39,6 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 
 
 <video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=QoSK1GlyrxU" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=QoSK1GlyrxU">
 </video>
-    <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=QoSK1GlyrxU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
