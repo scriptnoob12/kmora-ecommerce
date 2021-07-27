@@ -37,8 +37,6 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 <br>
 ## Video de visualización del proyecto
 
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=QoSK1GlyrxU">
-</video>
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QoSK1GlyrxU"><img src=https://user-images.githubusercontent.com/58433889/127079445-53cd4bbc-d961-496f-ae33-12bebcd4a372.png" alt="Kmora video presentación"></a>
+</div>
