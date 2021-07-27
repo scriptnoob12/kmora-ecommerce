@@ -38,3 +38,7 @@ Este es un proyecto *desarrollado para una cliente de Medellín, Colombia*, la c
 ## Video de visualización del proyecto
 
 [![Demo CountPages alpha](https://user-images.githubusercontent.com/58433889/127078716-c6d2a6b3-8203-4ce9-9263-d73fb98feb2e.png](https://www.youtube.com/watch?v=QoSK1GlyrxU)
+
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=QoSK1GlyrxU" type="video/mp4">
+</video>
